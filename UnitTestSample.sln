@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestSample", "UnitTestSample\UnitTestSample.csproj", "{4B0C9606-1FC2-468B-ACE6-5E488784B501}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestIntersect", "UnitTestIntersect\UnitTestIntersect.csproj", "{DC0E2639-E414-4231-85F8-DE1F0EEBB978}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B0C9606-1FC2-468B-ACE6-5E488784B501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B0C9606-1FC2-468B-ACE6-5E488784B501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B0C9606-1FC2-468B-ACE6-5E488784B501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B0C9606-1FC2-468B-ACE6-5E488784B501}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC0E2639-E414-4231-85F8-DE1F0EEBB978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC0E2639-E414-4231-85F8-DE1F0EEBB978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC0E2639-E414-4231-85F8-DE1F0EEBB978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC0E2639-E414-4231-85F8-DE1F0EEBB978}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3536ECC-5854-46C8-BFDC-A99A56C37362}
+	EndGlobalSection
+EndGlobal
